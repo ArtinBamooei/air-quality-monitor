@@ -1,5 +1,11 @@
-requests
-python-dotenv
-pandas
+# Core Dependencies
+requests==2.32.3
+python-dotenv==1.0.0
+pandas==2.2.3
+
+# Dashboard & Visualization
 streamlit
 plotly
+
+# Database Support
+SQLAlchemy==2.0.43
